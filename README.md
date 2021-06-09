@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jtrahan88
 - 👀 I’m interested in becoming a full time computer programer/free lancer
 - 🌱 I’m currently learning Python 3
-- 💞️ I’m looking to collaborate on Disater project for now due to crrent job role, but hopefully back end devolpment.
+- 💞️ I’m looking to collaborate on Disater project for now due to current job role, but hopefully backend devolpment.
 
 
 <!---
