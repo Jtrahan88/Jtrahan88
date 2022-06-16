@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Jtrahan88
 - 👀 I’m interested in becoming a full time Data Analyst/Data Scientist
-- 🌱 I’m currently learning Python 3
-- 💞️ I’m looking to collaborate on Disater project for now due to current job role, yet increase my skill set to futher advance my career toward computer programing. Main goal is to become a Data Scientist, and then continue learning from there.
+- 🌱 I’m currently learning Python, SQL, Power BI, Tableau, R Programming. 
 
 
 <!---
