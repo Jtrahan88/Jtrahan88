@@ -3,7 +3,12 @@
 - 🌱 I’m currently learning Python, SQL, Power BI, Tableau, R Programming.
 - :fire: I want to work on getting a four-plex or an apartment building, while using data to help make this decision.
 
-
+Overview of me!
+-Python 
+-SQL
+-Power Bi
+-Microsoft Office
+Versatile Data Analyst with experience interpreting and analyzing data. Excellent understanding and proficiency of platforms for effective data analyses, Including SQL, Sheets and Excel, Power BI, and Python. Strong communication, organizational, and analytical skills.
 
 
 <!---
