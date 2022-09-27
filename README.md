@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jacque Quinn trahan
-- 👀 I’m interested in becoming a full time Data Analyst/Data Scientist or Front-End.
+- 👀 I’m interested in becoming a full time Data Analyst/Data Engineer or Front-End. Honeslty I like the entire field becasue whatever I can think of I can create!
 - 🌱 I’m currently learning Python, SQL, Power BI, Tableau, Soon to be HTML, CSS, and Javascript.
 - :fire: I want to work on getting a four-plex or an apartment building, while using data to help make this decision.
 
